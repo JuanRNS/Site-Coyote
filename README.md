@@ -9,10 +9,10 @@ Uma landing page moderna, responsiva e de alta performance desenvolvida para a *
 ![Apresentação Inicial (Hero)](./public/inicio.png)
 *Tela Inicial com o menu de navegação e seção Hero*
 
-![Nossos Serviços / Portfolio](./public/servicos.png)
+![Nossos Serviços / Portfolio](./public/portfolio.png)
 *Seção detalhada sobre os serviços prestados e portfólio da empresa*
 
-![Estatísticas e Diferenciais](./public/portfolio.png)
+![Estatísticas e Diferenciais](./public/servicos.png)
 *Área de estatísticas destacando a confiança e os anos de mercado*
 
 ![Localização e Contato (Footer)](./public/info.png)
